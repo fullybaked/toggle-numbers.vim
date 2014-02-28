@@ -1,0 +1,9 @@
+toggle-numbers.txt Simple line number toggler
+
+Author: Dave Baker <http://www.fullbaked.co.uk>
+License: MIT
+
+ABOUT
+
+This is a very basic plugin that allows you to toggle between normal and relative
+line numbers in Vim
